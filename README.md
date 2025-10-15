@@ -1,8 +1,8 @@
 ![GitHub Banner](https://raw.githubusercontent.com/FollowRob/FollowRob/main/banner.png)
+> **Engineering better solutions. Building what works.**
+
 
 # Hi, I'm Rob 👋  
-
-> **Engineering better solutions. Building what works.**
 
 I’m transitioning from engineering and business development into technology and software.  
 Currently completing a **Full-Stack Development** programme focused on **HTML, CSS, JavaScript, Python, and Django**.
