@@ -1,3 +1,5 @@
+![GitHub Banner](https://raw.githubusercontent.com/FollowRob/FollowRob/main/banner.png)
+
 # Hi, I'm Rob 👋  
 
 > **Engineering better solutions. Building what works.**
