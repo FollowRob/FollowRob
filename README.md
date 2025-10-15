@@ -7,8 +7,9 @@
 I’m transitioning from engineering and business development into technology and software.  
 Currently completing a **Full-Stack Development** programme focused on **HTML, CSS, JavaScript, Python, and Django**.
 
-I use GitHub to document my learning journey and share projects that combine  
-engineering logic with modern web development practices.
+My GitHub is a documented area to record my learning journey and share projects that combine
+engineering logic with modern web development practices. 
+
 ---
 ### 🔧 Current Focus
 - Building responsive web applications  
