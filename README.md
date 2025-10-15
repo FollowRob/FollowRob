@@ -7,18 +7,18 @@ Currently completing a **Full-Stack Development** programme focused on **HTML, C
 
 I use GitHub to document my learning journey and share projects that combine  
 engineering logic with modern web development practices.
-
+---
 ### 🔧 Current Focus
 - Building responsive web applications  
 - Applying agile and problem-solving principles to tech projects  
 - Exploring process automation and digital transformation tools  
-
+---
 ### 🧰 Tech Stack
 HTML | CSS | JavaScript | Python | Django | Git | Agile | Problem Solving  
-
+---
 ### 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/robjamessmith)
-
+---
 ### 🧰 Tools & Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
